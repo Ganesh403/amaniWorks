@@ -1,0 +1,64 @@
+.checkbox-container {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0px 20px 430px;
+  }
+  .lineChartWrapper_container{
+    display: flex;
+    @media (min-width: 200px) and (max-width: 700px) and (orientation: portrait) {
+    display: block;
+    }
+  }
+  .contextMenuTri{
+     position: relative; 
+  }
+  .lineChart-gr{
+    height: 500px;
+    width: 500px;
+  }
+  .panModeIn{
+    display: flex;
+    position: absolute;
+    top: 231px;
+    z-index: 9999999;
+  }
+  .panModeOut{
+    display: flex;
+    position: absolute;
+    top: 231px;
+    left: 70rem;
+    z-index: 9999999;
+  }
+  .lazy-loading{
+    display: flex;
+    align-items: center;
+  }
+  .tick-line {
+    display: none;
+  }
+  
+  .tick-line:not(.recharts-cartesian-axis-tick-line-hidden) {
+    display: block;
+  }
+            
+  .lineChartstyle{
+    width: 900px;
+      height:700px
+  }
+  body{
+    margin: 10px !important;
+    padding: 0px !important;
+  }
+  
+  .contextMenuTri{
+    @media (min-width: 360px) and (max-width: 1024px) and (orientation: portrait) {
+      overflow-x: auto;
+      overflow-y: hidden;
+    }
+  }
+  .recharts-surface{
+    @media (min-width: 360px) and (max-width: 900px) and (orientation: portrait) {
+      width:500px !important;
+      height:300px !important
+    }
+  }

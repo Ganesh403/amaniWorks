@@ -1,0 +1,131 @@
+.menu-item-container {
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 5px;
+  width: 150px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.menu-title {
+  padding: 5px;
+  height: 20px;
+}
+.menu-item-container > div:hover,
+.react-contextmenu-item--selected {
+  background: #debe75;
+  color: #000;
+  cursor: pointer;
+}
+
+.react-contextmenu-item {
+  cursor: pointer;
+}
+
+.menu-item-container > div:last-child {
+  border: none;
+}
+
+.react-contextmenu-submenu > .react-contextmenu {
+  visibility: hidden;
+}
+
+.react-contextmenu-submenu > .react-contextmenu--visible {
+  visibility: visible;
+}
+.menuIteams_svg {
+  float: right;
+  margin-top: 4px;
+}
+
+.submenu {
+  position: absolute;
+  left: 100%;
+  top: 0;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 5px;
+  width: 150px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  background-color: #fff;
+  position: absolute;
+  z-index: 999999999;
+  padding: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.sub-options1,.sub-options2,.sub-options3,.sub-options4,.sub-options5,.sub-options6{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  background-color: #fff;
+  top: 65px;
+  left: 150px;
+  width: 150px;
+  padding: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+.sub-options1{
+ 
+  top: 0px;
+ 
+}
+.sub-options2{
+ 
+  top: 40px;
+ 
+}
+.sub-options3{
+  
+  top: 65px;
+  
+}
+.sub-options4{
+  
+  top: 135px;
+  
+}
+.sub-options5{
+  
+  top: 165px;
+  
+}
+.sub-options6{
+  
+  top: 205px;
+  
+}
+.menuIteams{
+height: 20px;
+padding: 5px;
+}
+.menuIteams:hover{
+  background: #debe75;
+  color: #000;
+  cursor: pointer;
+}
+.subIteams{
+height: 20px;
+padding: 5px;
+}
+.subIteams:hover{
+  background: #debe75;
+  color: #000;
+  cursor: pointer;
+}
+/* .submenu-container {
+  position: absolute;
+  top: 0;
+  left: 100%;
+}
+
+.submenu {
+  display: flex;
+  flex-direction: column;
+  background-color: #f5f5f5;
+  padding: 10px;
+} */
+

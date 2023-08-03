@@ -1,0 +1,334 @@
+{
+    "hdr3e052887f36beb1191050050569c12e3Historical": [
+        {
+            "LegacyID": [
+                {
+                    "value": "5054"
+                }
+            ],
+            "SiteId": "31818",
+            "Name": "Costanza 4847 WA Water Meter",
+            "EntityId": "05906D40-036C-EB11-9105-0050569C12E3",
+            "Pressure": [
+                {
+                    "timestamp": "2023-06-12T18:50:45",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T19:50:45",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T20:50:46",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T21:50:46",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T22:50:46",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T23:50:46",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T00:50:47",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T01:50:47",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T02:50:48",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T03:50:49",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T04:50:49",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T05:50:49",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T06:50:49",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T07:50:50",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T08:50:50",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T09:50:51",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T10:50:51",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                }
+            ],
+            "Today": [
+                {
+                    "timestamp": "2023-06-12T18:50:45",
+                    "value": "10.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T19:50:45",
+                    "value": "12.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T20:50:46",
+                    "value": "12.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T21:50:46",
+                    "value": "0.05",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T22:50:46",
+                    "value": "12.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T23:50:46",
+                    "value": "12.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T00:50:47",
+                    "value": "1.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T01:50:47",
+                    "value": "2.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T02:50:48",
+                    "value": "12.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T03:50:49",
+                    "value": "19.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T04:50:49",
+                    "value": "16.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T05:50:49",
+                    "value": "14.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T06:50:49",
+                    "value": "12.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T07:50:50",
+                    "value": "2.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T08:50:50",
+                    "value": "3.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T09:50:51",
+                    "value": "10.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-13T10:50:51",
+                    "value": "12.0",
+                    "unit": "bbl"
+                }
+            ]
+          
+            
+        },
+        {
+            "LegacyID": [
+                {
+                    "value": "10433"
+                }
+            ],
+            "SiteId": "31818",
+            "Name": "Gas Lift Master Meter(Methanol)",
+            "EntityId": "0602AD91-0E6C-EB11-9105-0050569C12E3",
+            "Grand": [
+                {
+                    "timestamp": "2023-06-12T18:50:45",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T18:55:45",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                },
+                {
+                    "timestamp": "2023-06-12T18:60:45",
+                    "value": "582213.0",
+                    "unit": "bbl"
+                }
+            ],
+            "Pressure": [
+                {
+                    "timestamp": "2023-06-12T18:00:45",
+                    "value": "-18.887683868408203",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:05:45",
+                    "value": "-19.241249084472656",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:06:45",
+                    "value": "-15.362685203552246",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:08:45",
+                    "value": "-21.927589416503906",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:09:45",
+                    "value": "-22.927589416503906",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:10:45",
+                    "value": "-17.127241134643555",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:13:45",
+                    "value": "-21.821422576904297",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:15:45",
+                    "value": "-18.368194580078125",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:16:45",
+                    "value": "-21.053638458251953",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:18:45",
+                    "value": "-22.478336334228516",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:19:45",
+                    "value": "-16.414321899414062",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:20:45",
+                    "value": "-18.62721824645996",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:21:45",
+                    "value": "-16.86219596862793",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:25:45",
+                    "value": "-19.732982635498047",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:29:45",
+                    "value": "-18.008798599243164",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:31:45",
+                    "value": "-19.966106414794922",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:34:45",
+                    "value": "-18.01386833190918",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:36:45",
+                    "value": "-20.173816680908203",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:38:45",
+                    "value": "-19.230724334716797",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:39:45",
+                    "value": "-16.871442794799805",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:42:45",
+                    "value": "-18.021095275878906",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:43:45",
+                    "value": "-20.841854095458984",
+                    "unit": "mcf/d"
+                },
+                {
+                    "timestamp": "2023-06-12T18:45:45",
+                    "value": "-19.950908660888672",
+                    "unit": "mcf/d"
+                }
+            ]
+        }
+    ]
+}

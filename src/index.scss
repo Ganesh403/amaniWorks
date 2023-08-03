@@ -1,0 +1,109 @@
+@media (min-width:786px) and (max-width:3600px){
+  body{
+    overflow-x: hidden;
+  }
+}
+
+button:hover {
+  border-color: #646cff;
+}
+body{
+  margin: 10px !important;
+  padding: 0px !important;
+  display: flex !important;
+  justify-content: center !important;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+.lineChartSite_container{
+  margin-left: auto;
+  display: flex;
+  flex-direction: column;
+}
+.input_datePicker{
+  margin-right: 0.7rem;
+}
+.input_selection{
+min-width: 8.5rem;
+max-width: 8.5rem;
+margin-right: 0.75rem;
+}
+.lineChartSiteEntity{
+  display: flex;
+}
+.lineChart-inputData{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+.headerTitle{
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+}
+.lazy-loading{
+  display: flex;
+  height: 35rem;
+ justify-content: center;
+ align-items: center;
+  font-size: x-large;
+}
+.filter-panel{
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+}
+.page-button{
+  color: #646cff;
+  border: 1px solid #646cff;
+  height: 30px;
+  width: 40px;
+  padding: inherit;
+}
+.page-selection{
+  color: #646cff;
+  border: 1px solid #646cff;
+  border-radius: 8px;
+  cursor: pointer;
+  height: 30px;
+  width: 40px;
+}
+.page-button:disabled{
+  pointer-events: none; /* Disable pointer events */
+  cursor: not-allowed; /* Change cursor to not-allowed */
+}
+.page-button:hover:not(:disabled){
+  background-color: #646cff;
+  color: #fff;
+}
+.loader {
+  border: 4px solid #f3f3f3; /* Light gray border */
+  border-top: 4px solid #3498db; /* Blue border on top */
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite; /* Spin animation */
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

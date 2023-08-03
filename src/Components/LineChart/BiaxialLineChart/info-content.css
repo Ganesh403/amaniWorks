@@ -1,0 +1,76 @@
+.dynamic-label {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-bottom: 1px solid grey;
+    cursor: pointer;
+}
+
+
+  .lineChartComponent-container{
+    margin-right: 10px;
+    margin-top: 28px;
+  }
+  .lineChartComponent-data{
+    position: relative;
+    padding: 20px;
+    border: 1px solid grey;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 13rem;
+  }
+  .lineChart-siteName{
+    font-weight: 600;
+    margin-bottom:30px ;
+    font-size:18px ;
+  }
+  .lineChart-descriptionValue{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+    opacity: 0.5;
+    font-size: 12px;
+  }
+  .tooltip{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    background-color: #ffff;
+    border-radius: 5px;
+    border: 1px solid #000;
+    padding: 2px;
+  }
+  .tooltip-data{
+    height : 20px
+  }
+  .tooltip-refLine{
+    position: absolute;
+    background-color: #ffff;
+    border-radius: 5px;
+    border: 1px solid #000;
+    padding: 2px;
+  }
+  
+  .linechartOpttion{
+    display: flex;
+    justify-content:space-between;
+    padding-bottom: 20px;
+  }
+  .dynamic-span{
+    display: flex;
+  }
+  .dynamic-colorPicker{
+    width: 13px;
+    height: 13px;
+    cursor: pointer;
+    margin: 3px 3px 3px 4px;
+    border-radius: 2px;
+    position: relative
+  }
+  .dynamic-name{
+    margin-left: 3px;
+  }
